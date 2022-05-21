@@ -12,7 +12,7 @@
 ||ads.google.com^
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
-||googleadservices.com^
+googleadservices.com
 ||static.media.net^
 ||media.net^
 ||adservetx.media.net^
