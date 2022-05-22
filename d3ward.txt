@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
 ! Version: 1
-! Title: Sloofy's Laundry (d3ward list)
+! Title: Sloofy's Laundry List (d3ward list)
 ! Description: Blocking domains from https://d3ward.github.io/toolz/adblock.html
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/Sloofy/laundry
 ! Licence: https://github.com/Sloofy/laundry/blob/main/LICENSE
 !
-! ---- ADS ----
+! ----- ADS -----
 !
 ||pagead2.googlesyndication.com^
 ||ads.google.com^
