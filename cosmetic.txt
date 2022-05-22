@@ -16,6 +16,3 @@ discord.me##footer
 discord.me##.text-center.title
 discord.me##.text-center.sub-header
 discord.me##.server-link
-discord.me##h3 > [href="/server-manager/4c29607555638b1de01a026330c5a394f6c483245cdec041016aa67fa58e5f12"]
-discord.me##[href="/bot-status/e/4c29607555638b1de01a026330c5a394f6c483245cdec041016aa67fa58e5f12"] > .dashboard-bot-status
-discord.me##a[href="/server-manager/settings/4c29607555638b1de01a026330c5a394f6c483245cdec041016aa67fa58e5f12"] > .dashboard-bot-status
